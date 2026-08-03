@@ -1,4 +1,4 @@
-# homeease
+# Home Ease
 
 A new Flutter project.
 
